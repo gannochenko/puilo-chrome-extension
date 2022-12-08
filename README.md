@@ -9,4 +9,4 @@
 
 ## Usage
 
-Just enable the plugin and in the popup click on the `Copy token` button.
+Just enable the plugin and enjoy the flight
